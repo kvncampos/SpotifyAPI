@@ -1,2 +1,5 @@
 creds.py
 token.json
+.idea
+.cache
+.gitignore
